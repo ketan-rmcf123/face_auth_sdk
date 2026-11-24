@@ -1,0 +1,1 @@
+{'dataset_root': 'tests', 'artifact_dir': 'artifacts', 'status': 'scaffolded', 'notes': ['Use a synthetic spoof dataset such as SynthASpoof or a curated KYC spoof corpus.', 'Train a lightweight embedding model with contrastive / representation-learning objectives.']}
